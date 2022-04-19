@@ -1,0 +1,3 @@
+pandas~=1.2
+plotly~=5.7
+nbformat~=5.3
